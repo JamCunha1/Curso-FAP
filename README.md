@@ -1,2 +1,2 @@
 # Curso-FAP
-Atividade e exercícios realizados
+Atividades e exercícios realizados
